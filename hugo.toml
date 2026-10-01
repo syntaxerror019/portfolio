@@ -1,7 +1,10 @@
 baseURL = 'https://portfolio.mileshilliard.com'
 locale = 'en-us'
-title = 'Miles Hilliard'
+title = 'Miles Hilliard _'
 theme = 'newsroom'
+
+[params]
+  faviconsDir = "images/icons/" # with a trailing slash
 
 [markup]
   [markup.goldmark]

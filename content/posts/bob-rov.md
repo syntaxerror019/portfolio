@@ -3,7 +3,7 @@ author = "Miles Hilliard"
 title = "Sunk Robotics - BOB ROV"
 date = "2026-09-01"
 description = "Sunk Robotics' Latest ROV design... Let's explore the sea!"
-image = "/images/bob/zoom4.jpg"
+image = "/images/bob/zoom4.webp"
 +++
 
 Sunk Robotics' Latest ROV design... BOB ROV
@@ -13,19 +13,19 @@ BOB ROV was conceived as a general deep sea underwater platform, allowing operat
 
 <div class="gallery">
   <figure>
-    <img src="/images/bob/gallery2.jpg" alt="Machining parts for the ROV in the shop" loading="lazy">
+    <img src="/images/bob/gallery2.webp" alt="Machining parts for the ROV in the shop" loading="lazy">
     <figcaption>Machining parts in the shop</figcaption>
   </figure>
   <figure>
-    <img src="/images/bob/gallery6.jpg" alt="Assembling the ROV frame and components" loading="lazy">
+    <img src="/images/bob/gallery6.webp" alt="Assembling the ROV frame and components" loading="lazy">
     <figcaption>Testing software & hardware integration</figcaption>
   </figure>
   <figure>
-    <img src="/images/bob/gallery9.jpg" alt="Wiring and soldering on the ROV" loading="lazy">
+    <img src="/images/bob/gallery9.webp" alt="Wiring and soldering on the ROV" loading="lazy">
     <figcaption>Machining the end-caps for the ROV</figcaption>
   </figure>
   <figure>
-    <img src="/images/bob/gallery11.jpg" alt="Testing the completed BOB ROV" loading="lazy">
+    <img src="/images/bob/gallery11.webp" alt="Testing the completed BOB ROV" loading="lazy">
     <figcaption>Turning the ROV's tube on the lathe</figcaption>
   </figure>
 </div>
@@ -41,7 +41,7 @@ Alongside the power and control electronics, the electrical side of BOB covers e
 <!-- TODO: replace these placeholder captions -->
 <div class="gallery">
   <figure>
-    <img src="/images/bob/bob.JPG" alt="The finished BOB ROV" loading="lazy">
+    <img src="/images/bob/bob.webp" alt="The finished BOB ROV" loading="lazy">
     <figcaption>BOB ROV</figcaption>
   </figure>
   <figure>
@@ -49,11 +49,11 @@ Alongside the power and control electronics, the electrical side of BOB covers e
     <figcaption>CAD model</figcaption>
   </figure>
   <figure>
-    <img src="/images/bob/design.jpg" alt="Design drawing of the ROV" loading="lazy">
+    <img src="/images/bob/design.webp" alt="Design drawing of the ROV" loading="lazy">
     <figcaption>Design drawing</figcaption>
   </figure>
   <figure>
-    <img src="/images/bob/pcb.jpg" alt="A custom PCB made for the ROV" loading="lazy">
+    <img src="/images/bob/pcb.webp" alt="A custom PCB made for the ROV" loading="lazy">
     <figcaption>Custom PCB</figcaption>
   </figure>
 </div>

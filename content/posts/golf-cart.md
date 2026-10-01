@@ -11,7 +11,7 @@ The MVTHS Ford Think! Neighbor Self-Driving Car Project
 
 This project has been an ongoing project in the MVTHS Robotics & Engineering shop. Three of these non-functional Ford Think! Neighbors were donated to our shop and sat outside for 20+ years. The generational goal has been to make them fully autonomous…
 
-Over the last four years, [Jonas](https://jonaswirz.wordpress.com) and I have been working to get this vehicle fully self-driving. 
+Over the last four years, my colleaugue and I have been working to get this vehicle fully self-driving. 
 
 So far, we designed a custom LiFePO4 battery array to replace the old lead acid batteries fully from scratch. Additionally, we have succesfully interfaced the steering system by attaching a high-torque motor with a chain-driven link directly to the steering column. This has made it possible to precisely move the steering rack by putting together a custom controller that uses PIDs to keep track of the motor's position and target position with rotary encoders. At the same time, a hand-trained AI image model was trained that proved capable of identifying objects, debris, people, and signs on the road was developed permitting the vehicle to make split-second driving decisions. With all of this combined, the vehicle is capable autonomously following people and other objects. 
 

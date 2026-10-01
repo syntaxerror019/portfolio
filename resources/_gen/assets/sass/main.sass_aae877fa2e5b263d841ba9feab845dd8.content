@@ -1345,4 +1345,52 @@ pre {
   color: #666;
 }
 
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  margin: 2rem 0 2.5rem;
+}
+
+@media screen and (max-width: 567px) {
+  .gallery {
+    grid-template-columns: 1fr;
+  }
+}
+
+.gallery figure {
+  position: relative;
+  margin: 0;
+  overflow: hidden;
+  border-radius: 6px;
+  background-color: var(--accent);
+}
+
+.post .gallery img:not(.icon) {
+  display: block;
+  width: 100% !important;
+  max-width: 100% !important;
+  aspect-ratio: 1.33;
+  object-fit: cover;
+  margin: 0 !important;
+  box-shadow: none;
+  transition: transform 0.5s var(--ease);
+}
+
+.gallery figure:hover img {
+  transform: scale(1.06);
+}
+
+.gallery figcaption {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 2rem 0.9rem 0.7rem;
+  font-size: 0.85rem;
+  letter-spacing: 0.02em;
+  color: #fff;
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0));
+}
+
 /*# sourceMappingURL=styles.css.map */

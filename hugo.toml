@@ -2,3 +2,8 @@ baseURL = 'https://portfolio.mileshilliard.com'
 locale = 'en-us'
 title = 'Miles Hilliard'
 theme = 'newsroom'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

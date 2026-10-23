@@ -9,7 +9,7 @@ image = "/images/bob/zoom4.webp"
 Sunk Robotics' Latest ROV design... BOB ROV
 <!--more-->
 
-BOB ROV was conceived as a general deep sea underwater platform, allowing operations at 500 meter depths. This robot is designed with exploring shipwrecks of the coast in mind. Everything on the robot is made fully in-house (in the MVTHS robotics shop) with our our machinery.
+BOB ROV was conceived as a general deep sea underwater platform, allowing operations at 500+ meter depths. This robot is designed with exploring shipwrecks off the coast of Maine in mind. Everything on the robot is designed and manufactured fully in-house (in the MVTHS Robotics ^ Engineering shop) with our our machinery.
 
 <div class="gallery">
   <figure>
@@ -34,7 +34,7 @@ BOB ROV was conceived as a general deep sea underwater platform, allowing operat
 
 As the lead electrical engineer of Sunk Robotics, I have been designing, manufacturing, testing, and debugging the electrical aspects of the ROV. Every circuit board on the ROV is custom designed by me, including a custom DSHOT control board based on the STM32 chip that is responsible for controlling all eight ESCs connected to the ROV's thrusters.
 
-[STM32BOBBY Documentation](https://assets.sunkrobotics.com/static/STM32BOBBY/STM32BOBBY.pdf)
+Check out the docs! [STM32BOBBY Documentation](https://assets.sunkrobotics.com/static/STM32BOBBY/STM32BOBBY.pdf)
 
 Alongside the power and control electronics, the electrical side of BOB covers everything from the 800VDC tether and power distribution, to the sensor suite and the camera system that gives the vehicle its senses underwater. Building these boards in-house means each one can be iterated on and tested on the bench, then validated in a pool test before it ever goes in the ocean.
 

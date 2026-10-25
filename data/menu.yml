@@ -1,5 +1,3 @@
 main:
   - item: About
-    url: about/
-  - item: Projects
-    url: ""
+    url: "https://www.mileshilliard.com"

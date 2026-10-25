@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on Miles Hilliard _</title>
-		<link>http://localhost:1313/posts/</link>
+		<link>https://portfolio.mileshilliard.com/posts/</link>
 		<description>Recent content in Posts on Miles Hilliard _</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,20 +12,27 @@
 		
 			<lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://portfolio.mileshilliard.com/posts/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Autonomous Golf Cart</title>
-				<link>http://localhost:1313/posts/golf-cart/</link>
+				<link>https://portfolio.mileshilliard.com/posts/golf-cart/</link>
 				<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/posts/golf-cart/</guid>
+				<guid>https://portfolio.mileshilliard.com/posts/golf-cart/</guid>
 				<description>&lt;p&gt;The MVTHS Ford Think! Neighbor Self-Driving Car Project&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Sunk Robotics - BOB ROV</title>
-				<link>http://localhost:1313/posts/bob-rov/</link>
+				<link>https://portfolio.mileshilliard.com/posts/bob-rov/</link>
 				<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/posts/bob-rov/</guid>
-				<description>&lt;p&gt;Sunk Robotics&amp;rsquo; Latest ROV design&amp;hellip; BOB ROV&lt;/p&gt;</description>
+				<guid>https://portfolio.mileshilliard.com/posts/bob-rov/</guid>
+				<description>&lt;p&gt;Sunk Robotics&amp;rsquo; Latest Underwater Remotely Operated Vehicle design&amp;hellip; BOB ROV&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>CountAPI at scale </title>
+				<link>https://portfolio.mileshilliard.com/posts/count-api/</link>
+				<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+				<guid>https://portfolio.mileshilliard.com/posts/count-api/</guid>
+				<description>&lt;p&gt;My self-hosted countapi.xyz alternative &lt;a href=&#34;https://countapi.mileshilliard.com&#34;&gt;(countapi.mileshilliard.com)&lt;/a&gt;&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

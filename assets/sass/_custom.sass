@@ -1,3 +1,4 @@
+
 .gallery
   display: grid
   grid-template-columns: repeat(2, 1fr)
@@ -22,10 +23,26 @@
     object-fit: cover
     margin: 0 !important
     box-shadow: none
-    transition: transform 0.5s var(--ease)
+    transition: none
+
+  .gallery figure
+    overflow: hidden
+
+  .gallery-item
+    cursor: zoom-in
+    display: block
+    overflow: hidden
+
+  .gallery-item img
+    transition: none
 
   figure:hover img
-    transform: scale(1.06)
+    transform: none
+
+  figure:last-child:nth-child(odd)
+    grid-column: 1 / -1
+    justify-self: center
+    width: calc(50% - 0.75rem)
 
   figcaption
     position: absolute

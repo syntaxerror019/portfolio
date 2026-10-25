@@ -2,26 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/golf-cart/</loc>
+    <loc>https://portfolio.mileshilliard.com/posts/golf-cart/</loc>
     <lastmod>2026-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://portfolio.mileshilliard.com/posts/</loc>
     <lastmod>2026-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/bob-rov/</loc>
+    <loc>https://portfolio.mileshilliard.com/posts/bob-rov/</loc>
     <lastmod>2026-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pages/</loc>
+    <loc>https://portfolio.mileshilliard.com/posts/count-api/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://portfolio.mileshilliard.com/pages/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://portfolio.mileshilliard.com/about/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://portfolio.mileshilliard.com/</loc>
     <lastmod>2019-08-25T00:52:59+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://portfolio.mileshilliard.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://portfolio.mileshilliard.com/tags/</loc>
   </url>
 </urlset>
